@@ -1,0 +1,9 @@
+sn/dakar/dakarcore/projection/ClientRequestDto.class
+sn/dakar/dakarcore/config/OpenApiConfig.class
+sn/dakar/dakarcore/entity/Client.class
+sn/dakar/dakarcore/repository/ClientRepository.class
+sn/dakar/dakarcore/controller/ClientController.class
+sn/dakar/dakarcore/projection/ClientResponseDto.class
+sn/dakar/dakarcore/repository/BaseRepository.class
+sn/dakar/dakarcore/entity/BaseEntity.class
+sn/dakar/dakarcore/config/DataRestConfig.class

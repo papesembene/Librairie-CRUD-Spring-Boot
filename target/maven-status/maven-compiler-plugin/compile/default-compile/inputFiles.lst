@@ -1,0 +1,9 @@
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/entity/BaseEntity.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/entity/Client.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/projection/ClientRequestDto.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/repository/ClientRepository.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/controller/ClientController.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/projection/ClientResponseDto.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/config/DataRestConfig.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/repository/BaseRepository.java
+/home/mr-sem-s/Documents/ODC/JAVA/MyPackage/src/main/java/sn/dakar/dakarcore/config/OpenApiConfig.java
