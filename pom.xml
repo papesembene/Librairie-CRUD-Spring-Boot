@@ -19,7 +19,7 @@
         <mapstruct.version>1.5.5.Final</mapstruct.version>
         <rsql-parser.version>2.1.0</rsql-parser.version>
         <testcontainers.version>1.19.8</testcontainers.version>
-        <github.username>VOTRE_USERNAME</github.username>
+        <github.username>papesembene</github.username>
         <github.repository>spring-boot-crud-starter</github.repository>
     </properties>
     <dependencies>

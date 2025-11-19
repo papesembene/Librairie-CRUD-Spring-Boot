@@ -29,4 +29,12 @@ public class BaseEntity implements Serializable {
 
     @Column(nullable = false)
     private boolean deleted = false;
+
+    public boolean isDeleted() {
+        return deleted;
+    }
+
+    public void setDeleted(boolean deleted) {
+        this.deleted = deleted;
+    }
 }
